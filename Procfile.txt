@@ -1,0 +1,1 @@
+web: python fishing_slavyansk_report_bot.py
